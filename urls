@@ -1,0 +1,35 @@
+Bit bucket :
+https://build-mypkfit.inbaxalta.com/bitbucket/projects/PKC/repos/pkc-sql/browse?at=refs%2Fheads%2Fdevelop
+
+
+jenkins
+https://build-mypkfit.inbaxalta.com/jenkins/view/wave9/job/pkc-sql-w9/
+
+flywaydb
+https://flywaydb.org/
+
+
+---------------------------
+https://package-repo.mypkfit.com/bitbucket
+
+https://build-mypkfit.inbaxalta.com/jenkins
+
+------------------------------------------------
+
+
+ssh://git@pkcitas96.pkc.adml:7999/pkc/pkc-i18n-app.git
+
+
+----------------------------
+for client :
+
+https://package-repo.mypkfit.com/bitbucket/projects/PKC/repos/pkc-i18n-client/browse?at=refs%2Fheads%2Fdevelop 
+
+for app:
+https://package-repo.mypkfit.com/bitbucket/projects/PKC/repos/pkc-i18n-app/browse?at=refs%2Fheads%2Fdevelop 
+
+for landing:
+https://package-repo.mypkfit.com/bitbucket/projects/PKC/repos/pkc-i18n-landing/browse?at=refs%2Fheads%2Fdevelop
+
+
+

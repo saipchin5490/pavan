@@ -1,0 +1,28 @@
+Bulgaria, Singapore, Switzerland, Taiwan?
+move from develop to master
+
+for client :
+
+https://package-repo.mypkfit.com/bitbucket/projects/PKC/repos/pkc-i18n-client/browse?at=refs%2Fheads%2Fdevelop 
+
+for app:
+https://package-repo.mypkfit.com/bitbucket/projects/PKC/repos/pkc-i18n-app/browse?at=refs%2Fheads%2Fdevelop 
+
+for landing:
+https://package-repo.mypkfit.com/bitbucket/projects/PKC/repos/pkc-i18n-landing/browse?at=refs%2Fheads%2Fdevelop
+
+
+
+for mobile refer 
+mma-i18n-config
+mma-i18n-diri
+mma-i18n-docs
+mma-i18n-json
+mma-i18n-privacypolicy
+mma-i18n-termsuse 
+
+
+zh-tw --taiwaan--pkc apps
+bg-bg --bulgaria -I18N-PKC-APPS,client,landing,docs
+en-sg --singapore --I18N-PKC-APPS,client,landing,docs
+de-ch ---Switzerland--created for hcp & mma
